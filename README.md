@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy [Tu Nombre]</h1>
+<h1 align="center">¡Hola! 👋 Soy [Hector Fabian Cardoso Morales ]</h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&center=true&vCenter=true&lines=A+passionate+frontend+developer+from+India)
 
