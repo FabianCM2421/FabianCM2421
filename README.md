@@ -1,6 +1,6 @@
 <h1 align="left">¡Hola! 👋 Soy Hector Fabian Cardoso Morales </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&center=true&vCenter=true&lines=A+passionate+frontend+developer+from+India)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&center=true&vCenter=true&lines=A+Hector+Fabian+Cardoso+Morales+Neiva-huiela)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +27,7 @@
 
 <h3 align="left">Proyectos</h3>
 
-1. 📂 [Proyecto 1](https://github.com/FabianCM2421/Actividades-Jesus-Ariel.git): Actividades Mas Evaluativas
+1. 📂 [Actividades.Ariel](https://github.com/FabianCM2421/Actividades-Jesus-Ariel.git): Actividades Mas Evaluativas
 2. 📂 [Proyecto 2](enlace_al_proyecto_2): Breve descripción del proyecto 2.
    <!-- Puedes agregar más proyectos aquí -->
 
