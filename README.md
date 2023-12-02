@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! 👋 Soy [Hector Fabian Cardoso Morales ]</h1>
+<h1 align="left">¡Hola! 👋 Soy Hector Fabian Cardoso Morales </h1>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&color=%2336BCF7&center=true&vCenter=true&lines=A+passionate+frontend+developer+from+India)
 
@@ -14,7 +14,7 @@
 - 💼 Estoy abierto/a a oportunidades de colaboración y siempre estoy buscando formas de contribuir al mundo del desarrollo web.
 - 📫 Si deseas contactarme, puedes hacerlo a través de mi correo electrónico: [tu@email.com](mailto:tu@email.com) o visitar mi perfil en [LinkedIn](tu enlace de LinkedIn).
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes Aprendidos</h3>
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
