@@ -27,7 +27,7 @@
 
 <h3 align="left">Proyectos</h3>
 
-1. 📂 [Proyecto 1](enlace_al_proyecto_1): Breve descripción del proyecto 1.
+1. 📂 [Proyecto 1](https://github.com/FabianCM2421/Actividades-Jesus-Ariel.git): Actividades Mas Evaluativas
 2. 📂 [Proyecto 2](enlace_al_proyecto_2): Breve descripción del proyecto 2.
    <!-- Puedes agregar más proyectos aquí -->
 
