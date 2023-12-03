@@ -17,10 +17,16 @@ Descripción breve del proyecto C.
 
 ## Lenguajes y Tecnologías
 
-|   |   |   |   |   |
-|---|---|---|---|---|
-| <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="30" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30" /> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30" /> | <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30" /> |
-| Arduino | HTML5 | Java | MySQL | Postman |
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
+  </a>
+  <!-- Puedes agregar más íconos de herramientas y lenguajes aquí -->
+</p>
 
 Otros lenguajes y tecnologías que he trabajado:
 
@@ -36,15 +42,3 @@ Otros lenguajes y tecnologías que he trabajado:
 
 ## Contacto
 
-- LinkedIn: [Tu LinkedIn](enlace_a_tu_linkedin)
-- Correo Electrónico: [tu@email.com](mailto:tu@email.com)
-- Sitio Web: [Tu Sitio Web](https://tu-sitio-web.com)
-
-
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&count_private=true&hide=contribs,prs&theme=dark)](https://github.com/tu_usuario)
-
-## Contacto
-
-- LinkedIn: [Tu LinkedIn](enlace_a_tu_linkedin)
-- Correo Electrónico: [tu@email.com](mailto:tu@email.com)
-- Sitio Web: [Tu Sitio Web](https://tu-sitio-web.com)
