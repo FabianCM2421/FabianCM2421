@@ -1,27 +1,10 @@
-<h1 align="center">¡Hola! 👋 Soy Hector Fabian Cardoso Morales</h1>
-<h3 align="center">Desarrollador Frontend Apasionado de India</h3>
+# ¡Hola! 👋 Soy Hector Fabian Cardoso Morales
 
-<p align="center">
-  <a href="mailto:tu@email.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=mail.ru&logoColor=white" alt="Correo Electrónico" />
-  </a>
-  |
-  <a href="tu enlace de LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  |
-  <a href="tu enlace de Twitter">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-</p>
-
----
+![Encabezado](https://pm1.aminoapps.com/8220/e454553c9a65f0ceab70f6bddbf4b089ad0907der1-2048-2048v2_hq.jpg)
 
 ## Acerca de Mí
 
 Soy un apasionado desarrollador de software con experiencia en diversas tecnologías y lenguajes de programación. Mi enfoque se centra en la creación de soluciones innovadoras y eficientes para abordar desafíos del mundo real.
-
----
 
 ## Proyectos Destacados
 
@@ -36,8 +19,6 @@ Breve descripción del proyecto Actividades-Formacion.
 ### [Actividades-Proyecto(Beta)](enlace_al_repositorio)
 
 Necesito ayuda con el proyecto Actividades-Proyecto(Beta). ¡Tu colaboración es bienvenida!
-
----
 
 ## Tecnologías y Herramientas
 
@@ -58,7 +39,6 @@ Necesito ayuda con el proyecto Actividades-Proyecto(Beta). ¡Tu colaboración es
 
 Y más...
 
----
 
 ## Contacto
 
