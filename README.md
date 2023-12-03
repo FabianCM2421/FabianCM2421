@@ -34,19 +34,19 @@ Necesito ayuda con el proyecto Actividades-Proyecto(Beta). ¡Tu colaboración es
 ## Tecnologías y Herramientas
 
 - **HTML5**
-  ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30" />
   
 - **Java**
-  ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30" />
 
 - **Arduino**
-  ![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="30" height="30" />
 
 - **MySQL**
-  ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30" />
 
 - **Postman**
-  ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30" />
 
 Y más...
 
@@ -59,4 +59,3 @@ Y más...
 - 📧 [Correo Electrónico](mailto:tu@email.com)
 - 🔗 [LinkedIn](tu enlace de LinkedIn)
 - 🐦 [Twitter](tu enlace de Twitter)
-
