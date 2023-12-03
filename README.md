@@ -58,9 +58,9 @@ Soy un desarrollador de software con experiencia en diversas tecnologías y leng
 - **Lenguajes de programación:**
   - **HTML5** ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
   - **Java** ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-- **Arduino** ![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)
-- **MySQL** ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-- **Postman** ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
+  - **Arduino** ![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)
+  - **MySQL** ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+  - **Postman** ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
 
 ---
 
