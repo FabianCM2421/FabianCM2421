@@ -67,5 +67,7 @@ Soy un apasionado desarrollador de software con experiencia en la creación de s
 
 ## Contacto
 
-- **Correo electrónico:** [tu@email.com]
+- **Correo electrónico:** [xzenzi259@gmail.com]
+- **Telefono :** [+57 3193596805 ]
+
 
