@@ -36,12 +36,12 @@ Soy un apasionado desarrollador de software con experiencia en la creación de s
 ## Proyectos destacados
 
 1. **Actividades-Ariel**
-   - [Repositorio GitHub](https://github.com/FabianCM2421/Actividades-Jesus-Ariel.git)
-   - Desarrollo de una aplicación web para la gestión de actividades académicas.
+   - [Actividades Importantes ](https://github.com/FabianCM2421/Actividades-Jesus-Ariel.git)
+   - Desarrollo unas serie de ejercios para profundisar lo visto en clase.
 
 2. **Actividades-Formacion**
-   - [Repositorio GitHub](enlace_al_repositorio)
-   - Creación de una plataforma de formación online.
+   - [Actividades Etapa Electiva](https://github.com/FabianCM2421/Trabajos-Etapa-Eletiva.git)
+    - Desarrollo unas serie de ejercios para profundisar lo visto en clase.
 
 3. **Actividades-Proyecto(Beta)**
    - [Repositorio GitHub](enlace_al_repositorio)
@@ -55,7 +55,7 @@ Soy un apasionado desarrollador de software con experiencia en la creación de s
 ## Habilidades
 
 - **Desarrollo de software:**
-  - Experiencia en aplicaciones web, móviles y de escritorio.
+  - Experiencia en aplicaciones web y de escritorio.
 - **Gestión de proyectos:**
   - Desarrollo y gestión de proyectos de software.
 - **Trabajo en equipo:**
