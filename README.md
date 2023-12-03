@@ -2,7 +2,7 @@
 
 ![Imagen de perfil](https://i.pinimg.com/474x/94/de/fd/94defdc1976ccf1477084e0a2e295712.jpg)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-%23181717?style=for-the-badge&logo=github&logoWidth=20)](ENLACE_DE_TU_PERFIL_GITHUB)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-%23181717?style=for-the-badge&logo=github&logoWidth=20)](https://github.com/FabianCM2421)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-%230A66C2?style=for-the-badge&logo=linkedin&logoWidth=20)](ENLACE_DE_TU_PERFIL_LINKEDIN)
 
 ---
