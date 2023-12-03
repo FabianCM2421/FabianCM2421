@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Hector Fabian Cardoso Morales
 
-![Encabezado](https://pm1.aminoapps.com/8220/e454553c9a65f0ceab70f6bddbf4b089ad0907der1-2048-2048v2_hq.jpg)
+<img align="right" width="150" height="150" src="https://pm1.aminoapps.com/8220/e454553c9a65f0ceab70f6bddbf4b089ad0907der1-2048-2048v2_hq.jpg">
 
 ## Acerca de Mí
 
@@ -19,20 +19,11 @@ Soy un apasionado desarrollador de software con experiencia en diversas tecnolog
 
 ## Tecnologías y Herramientas
 
-- **HTML5**
-  ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
-
-- **Java**
-  ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-
-- **Arduino**
-  ![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)
-
-- **MySQL**
-  ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-
-- **Postman**
-  ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
+- **HTML5** ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+- **Java** ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+- **Arduino** ![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)
+- **MySQL** ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+- **Postman** ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
 
 Y más...
 
@@ -42,9 +33,3 @@ Y más...
 
 - 📧 [Correo Electrónico](mailto:tu@email.com)
 - 🔗 [LinkedIn](tu enlace de LinkedIn)
-
----
-
-*Asegúrate de ajustar los enlaces y detalles según tus preferencias. ¡Espero que encuentres esto más profesional!*
-
-- 🐦 [Twitter](tu enlace de Twitter)
