@@ -2,9 +2,17 @@
 <h3 align="center">Desarrollador Frontend Apasionado de India</h3>
 
 <p align="center">
-  <a href="mailto:tu@email.com">📧 Contacto</a> |
-  <a href="tu enlace de LinkedIn">🔗 LinkedIn</a> |
-  <a href="tu enlace de Twitter">🐦 Twitter</a>
+  <a href="mailto:tu@email.com">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=mail.ru&logoColor=white" alt="Correo Electrónico" />
+  </a>
+  |
+  <a href="tu enlace de LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  |
+  <a href="tu enlace de Twitter">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
 </p>
 
 ---
@@ -19,11 +27,11 @@ Soy un apasionado desarrollador de software con experiencia en diversas tecnolog
 
 ### [Actividades-Ariel](https://github.com/FabianCM2421/Actividades-Jesus-Ariel.git)
 
-Descripción breve del proyecto Actividades-Ariel.
+Breve descripción del proyecto Actividades-Ariel.
 
 ### [Actividades-Formacion](enlace_al_repositorio)
 
-Descripción breve del proyecto Actividades-Formacion.
+Breve descripción del proyecto Actividades-Formacion.
 
 ### [Actividades-Proyecto(Beta)](enlace_al_repositorio)
 
