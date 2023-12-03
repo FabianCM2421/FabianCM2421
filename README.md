@@ -2,8 +2,8 @@
 
 ![Imagen de perfil](https://i.pinimg.com/474x/94/de/fd/94defdc1976ccf1477084e0a2e295712.jpg)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-%23181717?style=for-the-badge&logo=github)](ENLACE_DE_TU_PERFIL_GITHUB)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-%230A66C2?style=for-the-badge&logo=linkedin)](ENLACE_DE_TU_PERFIL_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-%23181717?style=for-the-badge&logo=github&logoWidth=20)](ENLACE_DE_TU_PERFIL_GITHUB)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-%230A66C2?style=for-the-badge&logo=linkedin&logoWidth=20)](ENLACE_DE_TU_PERFIL_LINKEDIN)
 
 ---
 
@@ -35,17 +35,17 @@ Soy un desarrollador de software apasionado por crear soluciones innovadoras y e
 1. **Actividades-Ariel**
    - [Repositorio GitHub](https://github.com/FabianCM2421/Actividades-Jesus-Ariel.git)
    - Aplicación web para la gestión de actividades académicas
-   - Desarrollada con HTML5, CSS3, JavaScript y PHP
+   - Desarrollada con ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg), ![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg), ![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) y ![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
 
 2. **Actividades-Formacion**
    - [Repositorio GitHub](enlace_al_repositorio)
    - Plataforma de formación online
-   - Desarrollada con ReactJS, Node.js y MySQL
+   - Desarrollada con ![ReactJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg), ![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg) y ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
 
 3. **Actividades-Proyecto(Beta)**
    - [Repositorio GitHub](enlace_al_repositorio)
    - Sistema de gestión de inventarios
-   - Desarrollado con Java, Spring Boot y PostgreSQL
+   - Desarrollado con ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg), ![Spring Boot](https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg) y ![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)
 
 ---
 
@@ -77,4 +77,3 @@ Soy un desarrollador de software apasionado por crear soluciones innovadoras y e
 
 - **Correo electrónico:** [tu@email.com]
 
-- **LinkedIn:** [tu enlace de LinkedIn]
