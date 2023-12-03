@@ -1,53 +1,62 @@
-
 <h1 align="center">¡Hola! 👋 Soy Hector Fabian Cardoso Morales</h1>
-<h3 align="center">Un apasionado desarrollador frontend de India</h3>
+<h3 align="center">Desarrollador Frontend Apasionado de India</h3>
 
-- 🔭 Actualmente estoy trabajando en [Actividades-Ariel](https://github.com/FabianCM2421/Actividades-Jesus-Ariel.git)
-
-- 👯 Busco colaborar en **Actividades-Formacion**
-
-- 🤝 Necesito ayuda con **Actividades-Proyecto(Beta)**
-
-<h3 align="center">Conéctate conmigo:</h3>
 <p align="center">
-  <!-- Agrega tus enlaces de redes sociales aquí -->
+  <a href="mailto:tu@email.com">📧 Contacto</a> |
+  <a href="tu enlace de LinkedIn">🔗 LinkedIn</a> |
+  <a href="tu enlace de Twitter">🐦 Twitter</a>
 </p>
 
-## Acerca de mí
+---
 
-Soy un apasionado desarrollador de software con experiencia en varios lenguajes y tecnologías. Mi objetivo es crear soluciones innovadoras y eficientes para resolver problemas del mundo real.
+## Acerca de Mí
+
+Soy un apasionado desarrollador de software con experiencia en diversas tecnologías y lenguajes de programación. Mi enfoque se centra en la creación de soluciones innovadoras y eficientes para abordar desafíos del mundo real.
+
+---
 
 ## Proyectos Destacados
 
-1. **[Proyecto A](enlace_al_repositorio):** Breve descripción del proyecto A.
+### [Actividades-Ariel](https://github.com/FabianCM2421/Actividades-Jesus-Ariel.git)
 
-2. **[Proyecto B](enlace_al_repositorio):** Breve descripción del proyecto B.
+Descripción breve del proyecto Actividades-Ariel.
 
-3. **[Proyecto C](enlace_al_repositorio):** Breve descripción del proyecto C.
+### [Actividades-Formacion](enlace_al_repositorio)
 
-## Lenguajes y Tecnologías
+Descripción breve del proyecto Actividades-Formacion.
 
-<h3 align="center">Lenguajes y Herramientas:</h3>
-<p align="center">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-  </a>
-  <!-- Puedes agregar más íconos de herramientas y lenguajes aquí -->
-</p>
+### [Actividades-Proyecto(Beta)](enlace_al_repositorio)
 
-Otros lenguajes y tecnologías que he trabajado incluyen Python, JavaScript, CSS3, React y Node.js.
+Necesito ayuda con el proyecto Actividades-Proyecto(Beta). ¡Tu colaboración es bienvenida!
 
-## Estadísticas de GitHub
+---
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&count_private=true&hide=contribs,prs&theme=dark)](https://github.com/tu_usuario)
+## Tecnologías y Herramientas
+
+- **HTML5**
+  ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+  
+- **Java**
+  ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+
+- **Arduino**
+  ![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)
+
+- **MySQL**
+  ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+
+- **Postman**
+  ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
+
+Y más...
+
+---
 
 ## Contacto
 
-¡Estoy emocionado por nuevas oportunidades y colaboraciones! Puedes encontrarme en:
+¡Estoy emocionado por nuevas oportunidades y colaboraciones! No dudes en contactarme:
 
-- 📧 Correo Electrónico: [tu@email.com](mailto:tu@email.com)
-- 🔗 LinkedIn: [Hector Fabian Cardoso Morales en LinkedIn](tu enlace de LinkedIn)
-- 🐦 Twitter: [@tu_usuario_de_twitter]
+- 📧 [Correo Electrónico](mailto:tu@email.com)
+- 🔗 [LinkedIn](tu enlace de LinkedIn)
+- 🐦 [Twitter](tu enlace de Twitter)
+
