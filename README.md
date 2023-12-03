@@ -8,37 +8,33 @@ Soy un apasionado desarrollador de software con experiencia en diversas tecnolog
 
 ## Proyectos Destacados
 
-### [Actividades-Ariel](https://github.com/FabianCM2421/Actividades-Jesus-Ariel.git)
+1. **[Actividades-Ariel](https://github.com/FabianCM2421/Actividades-Jesus-Ariel.git)**
+   - Breve descripción del proyecto Actividades-Ariel.
 
-Breve descripción del proyecto Actividades-Ariel.
+2. **[Actividades-Formacion](enlace_al_repositorio)**
+   - Breve descripción del proyecto Actividades-Formacion.
 
-### [Actividades-Formacion](enlace_al_repositorio)
-
-Breve descripción del proyecto Actividades-Formacion.
-
-### [Actividades-Proyecto(Beta)](enlace_al_repositorio)
-
-Necesito ayuda con el proyecto Actividades-Proyecto(Beta). ¡Tu colaboración es bienvenida!
+3. **[Actividades-Proyecto(Beta)](enlace_al_repositorio)**
+   - Necesito ayuda con el proyecto Actividades-Proyecto(Beta). ¡Tu colaboración es bienvenida!
 
 ## Tecnologías y Herramientas
 
 - **HTML5**
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30" />
-  
+  ![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)
+
 - **Java**
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30" />
+  ![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
 
 - **Arduino**
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="30" height="30" />
+  ![Arduino](https://cdn.worldvectorlogo.com/logos/arduino-1.svg)
 
 - **MySQL**
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30" />
+  ![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
 
 - **Postman**
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="30" height="30" />
+  ![Postman](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg)
 
 Y más...
-
 
 ## Contacto
 
@@ -46,4 +42,9 @@ Y más...
 
 - 📧 [Correo Electrónico](mailto:tu@email.com)
 - 🔗 [LinkedIn](tu enlace de LinkedIn)
+
+---
+
+*Asegúrate de ajustar los enlaces y detalles según tus preferencias. ¡Espero que encuentres esto más profesional!*
+
 - 🐦 [Twitter](tu enlace de Twitter)
