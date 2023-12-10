@@ -43,8 +43,8 @@ Soy un apasionado desarrollador de software con experiencia en la creación de s
     - Desarrollo unas serie de ejercios para profundisar lo visto en clase.
 
 3. **Actividades-Proyecto(Beta)**
-   - [Repositorio GitHub](enlace_al_repositorio)
-   - Desarrollo de un sistema de gestión de inventarios en fase beta.
+   - [Repositorio GitHub](https://github.com/FabianCM2421/SpringBoots.git)
+   - Desarrollo de un sistema de gestión de inventarios en Spring Boors
 
 ---
 
