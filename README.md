@@ -42,10 +42,13 @@ Soy un apasionado desarrollador de software con experiencia en la creación de s
    - [Actividades Etapa Electiva](https://github.com/FabianCM2421/Trabajos-Etapa-Eletiva.git)
     - Desarrollo unas serie de ejercios para profundisar lo visto en clase.
 
-3. **Actividades-Proyecto(Beta)**
+3. **Actividades-SpringBoots**
    - [Repositorio GitHub](https://github.com/FabianCM2421/SpringBoots.git)
    - Desarrollo de un sistema de gestión de inventarios en Spring Boors
 
+4. **Actividades-Proyecto(Tienda)**
+   - [Repositorio GitHub](https://github.com/FabianCM2421/monolito-master.git)
+   - Desarrollo de un sistema de gestión de inventarios en Spring Boors
 ---
 
 <h3 align="left">Languages and Tools:</h3>
