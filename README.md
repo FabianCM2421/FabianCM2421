@@ -58,5 +58,5 @@ Soy un apasionado desarrollador de software con experiencia en la creación de s
 ---
 
 ## Lenguajes y Herramientas
+1.Java
 
-[![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)](https://www.java.com/)
